@@ -1,4 +1,4 @@
-use sandworm::{DuneClient, Result};
+use arrakis::{DuneClient, Result};
 use std::time::Duration;
 
 #[tokio::main]
