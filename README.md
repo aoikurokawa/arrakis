@@ -1,4 +1,4 @@
-# GEO Stake
+# Sand Worm
 
 ## Overview
 
